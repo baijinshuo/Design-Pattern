@@ -29,6 +29,7 @@ class Curly: public Stooge
     }
 };
 
+
 int main()
 {
   vector<Stooge*> roles;
